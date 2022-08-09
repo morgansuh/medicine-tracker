@@ -1,4 +1,4 @@
-# Medication Tracker
+# medication-tracker
 Keep track of what medication you are taking along with side effects. This is helpful for those who take multiple medication and are trying different prescriptions or taking care of others. 
 
 ### to set up:
